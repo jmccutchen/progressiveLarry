@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS `larry`;
+CREATE DATABASE `larry`;
